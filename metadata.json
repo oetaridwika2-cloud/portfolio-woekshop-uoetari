@@ -1,0 +1,6 @@
+{
+  "name": "UOETARI — Data Visualizer & Visual Storyteller",
+  "description": "Portfolio and visual atelier of Oetari Dwika (@uoetari), crafting data visualizations, editorial infographics, and visual essays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
